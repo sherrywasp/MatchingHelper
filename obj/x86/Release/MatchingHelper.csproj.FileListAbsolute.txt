@@ -1,0 +1,40 @@
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\bin\Release\MatchingHelper.exe.config
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\bin\Release\MatchingHelper.exe
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\bin\Release\MatchingHelper.pdb
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.FormExit.resources
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.FormMain.resources
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.FormWelcome.resources
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.exe
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.pdb
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.FormWriting.resources
+E:\Visual Studio 2010\Projects\LABORATORY\MatchingHelper\obj\x86\Release\MatchingHelper.FormWritingDone.resources
+E:\Visual Studio 2010\Projects\MatchingHelper\bin\Release\MatchingHelper.exe.config
+E:\Visual Studio 2010\Projects\MatchingHelper\bin\Release\MatchingHelper.exe
+E:\Visual Studio 2010\Projects\MatchingHelper\bin\Release\MatchingHelper.pdb
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.FormExit.resources
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.FormMain.resources
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.FormWelcome.resources
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.Properties.Resources.resources
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.FormWriting.resources
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.FormWritingDone.resources
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.csproj.GenerateResource.Cache
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.exe
+E:\Visual Studio 2010\Projects\MatchingHelper\obj\x86\Release\MatchingHelper.pdb
+E:\pro\csharp\project\personal\MatchingHelper\bin\Release\MatchingHelper.exe.config
+E:\pro\csharp\project\personal\MatchingHelper\bin\Release\MatchingHelper.exe
+E:\pro\csharp\project\personal\MatchingHelper\bin\Release\MatchingHelper.pdb
+E:\pro\csharp\project\personal\MatchingHelper\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.FormExit.resources
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.FormMain.resources
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.FormWelcome.resources
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.Properties.Resources.resources
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.FormWriting.resources
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.FormWritingDone.resources
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.csproj.GenerateResource.Cache
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.exe
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.pdb
+E:\pro\csharp\project\personal\MatchingHelper\obj\x86\Release\MatchingHelper.csprojResolveAssemblyReference.cache
